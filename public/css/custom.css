@@ -1,0 +1,130 @@
+.navbarSecond {
+    background-color: white;
+  }
+  .menuSecond {
+    margin-left: 14%;
+    margin-top: 20px;
+  }
+  .menuSecond li,
+  .menuThird li {
+    float: left;
+  }
+  .menuSecond li a,
+  input,
+  select {
+    display: block;
+    padding: 8px;
+    margin-left: 30px;
+  }
+  .itemSecond #kategori {
+    width: 150px;
+    margin-left: 0px;
+    border: none;
+  }
+  input #search-produk {
+    width: 250px;
+    border: none;
+    margin-left: -10px;
+  }
+  .menuSecond #search-produk {
+    width: 400px;
+    border-radius: 50px;
+  }
+  .input-icon i {
+    margin-left: 390px;
+    margin-top: -25px;
+    position: absolute;
+  }
+  .menuThird {
+    margin-left: 12.5%;
+    margin-top: 30px;
+  }
+  .menuThird input {
+    width: 300px;
+    margin-left: 18px;
+    border-radius: 10px;
+  }
+  .menuThird select {
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 40px;
+  }
+  .input-icon-transaksi i {
+    margin-left: 280px;
+    margin-top: -25px;
+    position: absolute;
+  }
+
+
+footer {
+    left: 0;
+    right: 0;
+    background: #44bd32;
+    bottom: -320px;
+    font-family: "Open Sans";
+    color: #fff;
+  }
+  .footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+  }
+  .footer-content h3 {
+    font-size: 1.8rem;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 3rem;
+  }
+  .pemisah {
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .footer-content p {
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 28px;
+    font-size: 14px;
+  }
+  .footer-bottom {
+    background: #e1b12c;
+    padding: 20px 0;
+  }
+  .footer-bottom p {
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    text-align: left;
+    margin-left: 500px;
+  }
+  
+  .menuSecond {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .left h3 {
+    text-align: left;
+    color: white;
+    margin-left: 500px;
+  }
+  .left p {
+    margin-left: 500px;
+    color: white;
+    text-align: left;
+  }
+  .right p {
+    color: white;
+    text-align: left;
+  }
+  .right p a {
+    color: white;
+  }
+
+.ulasan-first,.ulasan-second,.ulasan-third{
+  background-color: #e1b12c;
+  border: 1px solid black;
+}
