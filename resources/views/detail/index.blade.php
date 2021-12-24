@@ -7,7 +7,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-                    <iv class="card">
+                    <div class="card">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-6">

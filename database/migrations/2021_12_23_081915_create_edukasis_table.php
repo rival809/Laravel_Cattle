@@ -15,8 +15,9 @@ class CreateEdukasisTable extends Migration
     {
         Schema::create('edukasis', function (Blueprint $table) {
             $table->id();
-            $table->string('judul_edukasi');
-            $table->string('isi_edukasi');
+            $table->text('judul_edu');
+            $table->string('gambar');
+            $table->text('isi_edu');
             $table->timestamps();
         });
     }

@@ -86,7 +86,7 @@ class DetailController extends Controller
         // return view('detail.index', compact('products'));
 
         alert()->success('Pesanan Sukses Masuk Keranjang', 'Sukses');
-        return redirect('home');
+        return redirect('/');
         
     }
 

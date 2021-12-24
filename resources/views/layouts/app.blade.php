@@ -39,16 +39,16 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" href="{{ route('home') }}">Home</a>
+                            <a class="nav-link " href="{{ route('home') }}">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('home') }}">Jadi Mitra</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('home') }}">Berita</a>
+                            <a class="nav-link" href="{{ route('berita') }}">Berita</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('home') }}">Edukasi</a>
+                            <a class="nav-link" href="{{ route('edukasi') }}">Edukasi</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('home') }}">Tentang Kita</a>
